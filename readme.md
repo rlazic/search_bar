@@ -1,0 +1,1 @@
+search bar component for an eventual app
